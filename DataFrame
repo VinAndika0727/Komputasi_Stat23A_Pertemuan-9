@@ -1,0 +1,5 @@
+nama <- c("Ahmad", "Baim", "Cintia", "Dewi", "Egi")
+pekerjaan <- c("mahasiswa","polisi","dokter","insinyur","bankir")
+pendidikan <- c("Sarjana","Kapten","Sarjana","Sarjana","Sarjana")
+tabel = data.frame(nama,umur,pekerjaan)
+tabel_baru = data.frame(nama,pekerjaan,pendidikan)
